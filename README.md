@@ -1,3 +1,3 @@
 # NetflixClone 
 
-Using Html,Css,Java Script
+Using Html,Css,JavaScript
